@@ -17,7 +17,7 @@ option {
 pre, textarea {
   font-family: 'Tlwg Typist', monospace;
   font-size: 18px;
-  width: 100%;
+  width: 60%;
   max-width: 900px;
   /* background-color: lightgray; */
 }
